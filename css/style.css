@@ -1,0 +1,49 @@
+.product-navbar{
+    background-color: #2E4756;
+}
+
+.product-navbar-logo{
+    color: #DBC2CF;
+}
+
+.product-navbar-logo:hover, .product-navbar-logo:focus, .product-navbar-logo:active{
+    color: #DBC2CF;
+}
+
+.product-navbar-download{
+    color: #fff;
+    background-color: #16262E;
+    transition: 0.3s;
+    border-radius: 0px;
+}
+
+.product-navbar-download:hover, .product-navbar-download:focus, .product-navbar-download:active{
+    color: #fff;
+    background-color: #3C7A89;
+}
+
+.product-heading{
+    font-size: 3rem;
+}
+
+.product-name-card{
+    color: #DBC2CF;
+    background-color: #16262E;
+}
+
+.product-img-card{
+    background-color: #9FA2B2;
+    height: calc(100vh - 3.5rem);
+}
+
+.product-download{
+    color: #fff;
+    background-color: #2E4756;
+    transition: 0.3s;
+    border-radius: 0px;
+}
+
+.product-download:hover, .product-download:focus, .product-download:active{
+    color: #fff;
+    background-color: #3C7A89;
+}
